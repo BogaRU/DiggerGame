@@ -15,4 +15,4 @@ S TTST  TG
 
 # Скриншоты
 
-![Screenshot1](Screenshots/Screenshot1.png)
+![Screenshot](Screenshots/Screenshot.png)
